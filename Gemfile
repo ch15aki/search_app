@@ -55,3 +55,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # 検索機能の実装
 gem 'ransack'
+gem 'pry-rails'
